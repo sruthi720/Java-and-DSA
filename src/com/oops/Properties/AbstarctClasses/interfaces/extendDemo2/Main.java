@@ -1,4 +1,4 @@
-package com.oops.Properties.interfaces.extendDemo2;
+package com.oops.Properties.AbstarctClasses.interfaces.extendDemo2;
 
 public class Main implements A, B { //class to interface-->implements
     public Main() {

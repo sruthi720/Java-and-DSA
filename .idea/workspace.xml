@@ -64,7 +64,7 @@
       <recent name="com.oops.Properties.interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.oops.Properties.interfaces.nested.Main">
+  <component name="RunManager" selected="Application.com.oops.Properties.AbstarctClasses.interfaces.nested.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.oops.Properties.AbstarctClasses.Main" />
       <module name="Java_Datastructure" />
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.oops.Properties.interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oops.Properties.interfaces.Main" />
+    <configuration name="com.oops.Properties.AbstarctClasses.interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oops.Properties.AbstarctClasses.interfaces.Main" />
       <module name="Java_Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oops.Properties.interfaces.*" />
+          <option name="PATTERN" value="com.oops.Properties.AbstarctClasses.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.oops.Properties.interfaces.extendDemo2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oops.Properties.interfaces.extendDemo2.Main" />
+    <configuration name="com.oops.Properties.AbstarctClasses.interfaces.extendDemo2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oops.Properties.AbstarctClasses.interfaces.extendDemo2.Main" />
       <module name="Java_Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oops.Properties.interfaces.extendDemo2.*" />
+          <option name="PATTERN" value="com.oops.Properties.AbstarctClasses.interfaces.extendDemo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.oops.Properties.interfaces.nested.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oops.Properties.interfaces.nested.Main" />
+    <configuration name="com.oops.Properties.AbstarctClasses.interfaces.nested.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oops.Properties.AbstarctClasses.interfaces.nested.Main" />
       <module name="Java_Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oops.Properties.interfaces.nested.*" />
+          <option name="PATTERN" value="com.oops.Properties.AbstarctClasses.interfaces.nested.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,9 +132,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.oops.Properties.interfaces.nested.Main" />
-        <item itemvalue="Application.com.oops.Properties.interfaces.extendDemo2.Main" />
-        <item itemvalue="Application.com.oops.Properties.interfaces.Main" />
+        <item itemvalue="Application.com.oops.Properties.AbstarctClasses.interfaces.nested.Main" />
+        <item itemvalue="Application.com.oops.Properties.AbstarctClasses.interfaces.extendDemo2.Main" />
+        <item itemvalue="Application.com.oops.Properties.AbstarctClasses.interfaces.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test1$Inner_class$Test2" />
       </list>

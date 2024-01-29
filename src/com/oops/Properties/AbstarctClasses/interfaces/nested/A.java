@@ -1,4 +1,4 @@
-package com.oops.Properties.interfaces.nested;
+package com.oops.Properties.AbstarctClasses.interfaces.nested;
 
 public class A {
 //nested interface

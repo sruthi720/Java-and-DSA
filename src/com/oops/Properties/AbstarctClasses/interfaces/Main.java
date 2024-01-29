@@ -1,4 +1,4 @@
-package com.oops.Properties.interfaces;
+package com.oops.Properties.AbstarctClasses.interfaces;
 public class Main {
     public static void main(String[] args) {
 

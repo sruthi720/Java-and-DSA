@@ -1,4 +1,4 @@
-package com.oops.Properties.interfaces;
+package com.oops.Properties.AbstarctClasses.interfaces;
 
 public class ElectricEngine implements  Engine{ // separate class of same interface Engine
     @Override
