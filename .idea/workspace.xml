@@ -4,29 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf3a33a4-9f60-4f99-bb1b-429137ebb1fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/CDplayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/NiceCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/PowerEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/extendDemo1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/extendDemo1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/extendDemo1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/extendDemo2/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/extendDemo2/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/extendDemo2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/oops/Properties/interfaces/nested/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cf3a33a4-9f60-4f99-bb1b-429137ebb1fe" name="Changes" comment="completed till the interfaces">
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Cloning/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Cloning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Exception_Handling/Custom_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Exception_Handling/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Exception_Handling/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/collection_frameworks/Enum/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/collection_frameworks/Enum/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/collection_frameworks/Enum/Enum_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/collection_frameworks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/collection_frameworks/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/generic/CustomArrayList_AnyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/generic/CustomArraylist_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/generic/Interface/Generic_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/generic/Interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/generic/WildCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/generic/comparing/Lambda_functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/generic/comparing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/generic/comparing/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oops/Properties/AbstarctClasses/Daughter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oops/Properties/AbstarctClasses/Daughter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oops/Properties/AbstarctClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oops/Properties/AbstarctClasses/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oops/Properties/AbstarctClasses/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oops/Properties/AbstarctClasses/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oops/Properties/AbstarctClasses/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/oops/Properties/AbstarctClasses/Son.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,27 +47,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/java/Java-and-DSA/src/com/oops/Properties/interfaces/extendDemo2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java/Java-and-DSA/src/com/oops/Properties/interfaces/extendDemo2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java\Java-and-DSA\src\com\oops\Properties\interfaces\extendDemo2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.oops.generic" />
       <recent name="com.oops.Properties.interfaces" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.oops.Properties.AbstarctClasses.interfaces.nested.Main">
+  <component name="RunManager" selected="Application.com.oops.Cloning.Main">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oops.Exception_Handling.Demo" />
+      <module name="Java_Datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oops.Exception_Handling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda_functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oops.generic.comparing.Lambda_functions" />
+      <module name="Java_Datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oops.generic.comparing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oops.Properties.AbstarctClasses.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.oops.generic.comparing.Main" />
       <module name="Java_Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oops.Properties.AbstarctClasses.*" />
+          <option name="PATTERN" value="com.oops.generic.comparing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1$Inner_class$Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oops.Static_examples.Test1$Inner_class$Test2" />
-      <module name="Java-and-DSA" />
+    <configuration name="com.oops.Cloning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oops.Cloning.Main" />
+      <module name="Java_Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oops.Static_examples.*" />
+          <option name="PATTERN" value="com.oops.Cloning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,38 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.oops.Properties.AbstarctClasses.interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oops.Properties.AbstarctClasses.interfaces.Main" />
+    <configuration name="com.oops.Exception_Handling.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oops.Exception_Handling.Main" />
       <module name="Java_Datastructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oops.Properties.AbstarctClasses.interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.oops.Properties.AbstarctClasses.interfaces.extendDemo2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oops.Properties.AbstarctClasses.interfaces.extendDemo2.Main" />
-      <module name="Java_Datastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oops.Properties.AbstarctClasses.interfaces.extendDemo2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.oops.Properties.AbstarctClasses.interfaces.nested.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oops.Properties.AbstarctClasses.interfaces.nested.Main" />
-      <module name="Java_Datastructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.oops.Properties.AbstarctClasses.interfaces.nested.*" />
+          <option name="PATTERN" value="com.oops.Exception_Handling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.oops.Properties.AbstarctClasses.interfaces.nested.Main" />
-        <item itemvalue="Application.com.oops.Properties.AbstarctClasses.interfaces.extendDemo2.Main" />
-        <item itemvalue="Application.com.oops.Properties.AbstarctClasses.interfaces.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test1$Inner_class$Test2" />
+        <item itemvalue="Application.com.oops.Cloning.Main" />
+        <item itemvalue="Application.com.oops.Exception_Handling.Main" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Lambda_functions" />
+        <item itemvalue="Application.com.oops.generic.comparing.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +147,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706157928149</updated>
     </task>
+    <task id="LOCAL-00001" summary="completed till the interfaces">
+      <option name="closed" value="true" />
+      <created>1706532481932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706532481935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed till the interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed till the interfaces" />
   </component>
 </project>
